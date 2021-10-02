@@ -1,9 +1,13 @@
 ## Deck Builder
- 
+
+This is a repackage of the work done by Andrew Mazar 
+Copyright © 2014 Andrew Mazar
+
+
 ### About
 Tabletop Simulator allows its players to provide custom card decks. These decks are JPG or PNG images which are split into a 10x7 grid. Manually assembling cards in this format can be a pain. The Deck Builder provides a quick and easy way to create decks and export them to an image file. You can even save a deck configuration and load it in when you want to make changes. All image placement and resizing is done for you.
  
-###Getting Started
+### Getting Started
 To create a new deck, use the menu File➙New Deck (Ctrl+N).
 To save a deck configuration, use the menu File➙Save Deck (Ctrl+S), or File➙Save Deck As (Ctrl+Shift+S) it save it as a new file. Note that this file is not used by Tabletop Simulator, and is only used by this application. See Export Deck below.
 To open a previously saved deck configuration, use the menu File➙Open Deck (Ctrl+O) and select the .tsdb file. You can select multiple files to open them all at once.
